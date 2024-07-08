@@ -5,3 +5,6 @@ eth-gas-reporter/=node_modules/eth-gas-reporter/
 forge-std/=lib/forge-std/src/
 hardhat/=node_modules/hardhat/
 @prb=node_modules/@prb
+@chimera/=lib/chimera/src/
+@layerzerolabs/=node_modules/@layerzerolabs
+@gnosis.pm/=node_modules/@gnosis.pm
